@@ -1,0 +1,84 @@
+body {
+  font-family: "Raleway", sans-serif;
+}
+.icon-perfil {
+  width: 48px;
+}
+
+
+/* Hero Section */
+.col {
+  display: flex;
+  align-items: stretch ;
+}
+#Hero-Section {
+  background-image: url("../img/img1.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: left;
+
+}
+
+/* Acerca de Mi */
+
+.columna {
+  padding: 20px ;
+  border: 2px solid;
+  display: flex;
+  flex-direction: column;
+  transition: margin-right 2s, color 1s;
+}
+
+.fa-html5 {
+  color: orangered;
+}
+
+.fa-css3-alt {
+  color: #0059d7;
+}
+
+.fa-bootstrap {
+  color: #5d0dce;
+}
+
+.fa-git-alt{
+  color: #E44D30;
+}
+
+.fa-github {
+  color: black;
+}
+
+/* Navbar */
+
+.icon-perfil {
+  width: 48px;
+}
+
+
+/* Mis trabajos */
+
+#Mis-trabajos .image-top {
+  height: 250px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+/* Contacto */
+
+#Contacto form label {
+  font-weight: 700;
+  color:black;
+}
+
+@media (max-width: 768px) {
+  #Contacto form label {
+    font-weight: 400;
+  }
+
+  .navbar-brand{
+    width: 100px;
+  }
+
+}
