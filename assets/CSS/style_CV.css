@@ -16,9 +16,19 @@ body{
 .fa-bootstrap{
     color: #563d7c;
 }
-.fa-js{
-    color: #f0db4f;
+.fa-database{
+    color:blue;
 }
+.fa-python{
+    color:black
+}
+.fa-git-alt{
+    color: #E44D30;
+  }
+  .fa-github {
+    color: black;
+  }
+
 .modalImage{
     width: 30rem;
 }
@@ -44,16 +54,14 @@ body{
 #github{
     color:#333;
 }
-#whatsapp{
-    color:#25D366;
+#mail{
+    color:#2965f1;
 }
 @media(min-width:576px){
-    .projects{
+ .projects{
         display:grid;
         grid-template-columns: auto auto auto;
-        gap: 1rem;
-
-    }
+        gap: 1rem; }
 }
 footer p {
     font-family: 'raleway';
