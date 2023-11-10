@@ -22,12 +22,13 @@ body {
 /* Acerca de Mi */
 
 .columna {
-  padding: 20px ;
-  border: 2px solid;
+ 
   display: flex;
   flex-direction: column;
-  transition: margin-right 2s, color 1s;
+  transition-delay: 1s;
+  transition-property: margin
 }
+
 
 .fa-html5 {
   color: orangered;
