@@ -16,7 +16,6 @@ body {
   background-repeat: no-repeat;
   background-size: cover;
   background-position: left;
-
 }
 
 /* PORTAFOLIO */
@@ -52,8 +51,12 @@ body {
 
 /* Navbar */
 
+.nav-link{
+  text-transform: uppercase;
+}
+
 .icon-perfil {
-  width: 48px;
+  width: 88px;
 }
 
 

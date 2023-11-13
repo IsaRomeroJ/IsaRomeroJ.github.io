@@ -48,6 +48,10 @@ body{
     -webkit-transform: scale(1.3);
     transform: scale(1.3);
 }
+.nav-link{
+    text-transform: uppercase;
+}
+
 #linkedin{
     color:#0072b1;
 }
