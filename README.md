@@ -12,3 +12,7 @@ Adicionalmente, deberás demostrar que puedes trabajar de forma colaborativa en 
 haciendo alguna contribución a un repositorio de algún compañero.
 
 https://isaromeroj.github.io/index.html
+
+Realize fork y commit en 
+https://github.com/IsaRomeroJ/pramirezd.github.io
+https://github.com/IsaRomeroJ/Anayamaraya.github.io
